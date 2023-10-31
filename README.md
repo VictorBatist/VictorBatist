@@ -1,22 +1,34 @@
-# Hello World 🗺️
+<h1 align="center">  Hello World 🗺️ </h1>
 
-## I am Victor Batista ©️
-### Brazilian and Web Developer
+<h2 align="center">  I am Victor Batista ©️ </h2>  
 
-Currently more of a front-end than a back-end, but targeting full stack
+<h3 align="center">Brazilian and Web Developer</h3> 
 
-<div>
-<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=VictorBatist&show_icons=true&theme=transparent"/>
-<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorBatist&size_weight=0.5&count_weight=0.5"/>
+<p align="center">Currently more of a front-end than a back-end, but targeting full stack</p> 
+
+<div align="center">
+<img height="150cm" src="https://github-readme-stats.vercel.app/api?username=VictorBatist&show_icons=true&theme=transparent"/>
+<img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorBatist&show_icons=true&locale=en&layout=compact" alt="VictorBatist"/>
 </div>
 
-### Technologies Used:
+<h3 align="center">Technologies Used:</h3> 
 
-<div style="display: inline_blocks">
+<div align="center" style="display: inline_blocks">
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
+
+<div align="center">
+<h3> Find me on:</h3>
+<p>
+<a href="www.linkedin.com/in/victor-batista-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victor-batista-dev" height="30" /></a>
+<a href="https://discord.com/channels/@victorbatista0200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/discord.svg" alt="victor-batista-dev" height="40"  /></a>
+<a href="https://www.instagram.com/victorb_dm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/instagram.svg" alt="victor-batista-dev" height="30" width="30" /></a>
+
+</p> 
+</div>
+
 
 <!--
 **VictorBatist/VictorBatist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
