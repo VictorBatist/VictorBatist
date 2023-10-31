@@ -5,11 +5,18 @@
 
 Currently more of a front-end than a back-end, but targeting full stack
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorBatist&langs_count=8)
+<div>
+<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=VictorBatist&show_icons=true&theme=transparent"/>
+<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorBatist&size_weight=0.5&count_weight=0.5"/>
+</div>
 
 ### Technologies Used:
 
-
+<div style="display: inline_blocks">
+<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</div>
 
 <!--
 **VictorBatist/VictorBatist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
