@@ -6,10 +6,10 @@
 
 <p align="center">Currently more of a front-end than a back-end, but targeting full stack</p> 
 
-<div align="center">
+<!--<div align="center">
 <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=VictorBatist&show_icons=true&theme=transparent"/>
 <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorBatist&show_icons=true&locale=en&layout=compact" alt="VictorBatist"/>
-</div>
+</div>/-->
 
 <h3 align="center">Technologies Used:</h3> 
 
