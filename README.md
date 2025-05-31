@@ -2,9 +2,7 @@
 
 <h2 align="center">  I am Victor Batista ©️ </h2>  
 
-<h3 align="center">Brazilian and Web Developer</h3> 
-
-<p align="center">Currently more of a front-end than a back-end, but targeting full stack</p> 
+<h3 align="center">Brazilian and Developer Full Stack</h3> 
 
 <div align="center">
 <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=VictorBatist&show_icons=true&theme=transparent"/>
