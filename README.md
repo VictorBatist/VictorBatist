@@ -20,17 +20,6 @@
 
 </div>
 
-<div align="center">
-<h3> Find me on:</h3>
-<p>
-<a href="https://www.linkedin.com/in/victor-bdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victor-batista-dev" height="30" /></a>
-<a href="https://discord.com/channels/@victorbatista0200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/discord.svg" alt="victor-batista-dev" height="40"  /></a>
-<a href="https://www.instagram.com/victorb.js/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/instagram.svg" alt="victor-batista-dev" height="30" width="30" /></a>
-
-</p> 
-</div>
-
-
 <!--
 **VictorBatist/VictorBatist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
