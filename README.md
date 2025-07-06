@@ -8,14 +8,15 @@
 
 ___________________________
 
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=&color=F76800FF&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=main+technologies)](https://git.io/typing-svg)  
+</div>
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=&color=F76800FF&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=main+technologies)](https://git.io/typing-svg)
-
-<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 </div>
 
 ___________________
